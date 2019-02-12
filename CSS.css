@@ -9,7 +9,7 @@ color:white }
 body {
 background-color: silver;
 color:lightblue;
-font-family: Georgia, Times, serif;}
+font-family: Georgia, Times, sans-serif;}
 
 P {
 background-color: yellow;
@@ -23,7 +23,7 @@ ul {
 list-style-type: circle; }
 
 th {
-border-bottom: 2px solid #999;
+border-bottom: 2 px solid #999;
 border-top:1 px dashed #999;
 }
 tr {
