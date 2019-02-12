@@ -7,12 +7,12 @@ background-color: black;
 color:white }
 
 body {
-background-color: beige;
+background-color: LightCyan;
 color:darkblue;
 font-family: Georgia, Times, sans-serif;}
 
 P {
-background-color: beige;
+background-color: LightCyan;
 color:darkblue;
 font-family: Arial, Verdana, serif;}
 
@@ -23,8 +23,8 @@ ul {
 list-style-type: circle; }
 
 th {
-border-bottom: 2 px solid #999;
-border-top:1 px dashed #999;
+border-bottom: 5 px solid #999;
+border-top:5 px dashed #999;
 }
 tr {
-background-color: silver }
+background-color: SkyBlue }
