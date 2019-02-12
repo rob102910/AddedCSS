@@ -1,0 +1,30 @@
+title {
+background-color: black;
+color:white
+}
+h1, h2, h3 {
+background-color: black;
+color:white }
+
+body {
+background-color: silver;
+color:lightblue;
+font-family: Georgia, Times, serif;}
+
+P {
+background-color: yellow;
+color:red;
+font-family: Aria, Verdana, serif;}
+
+ol {
+list-style-type: upper-roman; }
+
+ul {
+list-style-type: circle; }
+
+th {
+border-bottom: 2px solid #999;
+border-top:1 px dashed #999;
+}
+tr {
+background-color: silver }
